@@ -1,0 +1,13 @@
+12
+swa Elon 9 0 0 0
+qae Les 0 0 10 0
+swe Todd 0 9 7 0
+qae Jamey 0 0 8 0
+swm Jeff 0 0 0 9
+swe John 0 9 9 0
+swe Eric 0 10 9 0
+qae Darrel 0 0 9 0
+swe Ariel 0 9 10 0
+qae Joanne 0 0 8 0
+swa Tim 10 0 0 0
+swm Brian 0 0 0 8
